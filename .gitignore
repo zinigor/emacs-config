@@ -9,3 +9,11 @@
 
 # Undo-tree save-files
 *.~undo-tree
+
+# Cache
+*eln-cache
+.emacs.d/elpa
+.emacs.d/tramp
+.emacs.d/.cache
+.emacs.d/recentf
+.emacs.d/session*
